@@ -2,7 +2,7 @@ body{
     text-align:left;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: blue;
+    background: rgb(53, 53, 61);
     color: lightblue;
     margin: 50px;
 }
@@ -21,45 +21,74 @@ h1{
     margin-right: 20px;
     line-height: 30px;
     width: 100px;
-    border: ipx solid #002fff;
+    border: none;
      outline: none;
      font-size: large;
      font-weight:bolder ;
-     background: blue;
+     background: none;
      color: white;
+     cursor: pointer;
+}
+.btn1:hover{
+    color: gray;
+}
+.btn1:active{
+    opacity: 0.3;
 }
 .btn2{
     margin-right: 20px;
     line-height: 30px;
     width: 100px;
-    border: ipx solid #002fff;
+    border: none;
      outline: none;
      font-size: large;
      font-weight:bolder ;
-     background: blue;
+     background:  none;
      color: white;
+     cursor: pointer;
+}
+.btn2:hover{
+    color: grey;
+}
+.btn2:active{
+    opacity: 0.3;
 }
 .btn3{
     margin-right: 20px;
     line-height: 30px;
     width: 100px;
-    border: ipx solid #002fff;
+    border: none;
      outline: none;
      font-size: large;
      font-weight:bolder ;
-     background: blue;
+     background:  none;
      color: white;
+     cursor: pointer;
+
+}
+.btn3:hover{
+    color: grey;
+}
+.btn3:active{
+    opacity: 0.3;
 }
 .btn4{
     margin-right: 20px;
     line-height: 30px;
     width: 100px;
-    border: ipx solid #002fff;
+    border: none;
      outline: none;
      font-size: large;
      font-weight:bolder ;
-     background: blue;
+     background:  none;
      color: white;
+     cursor: pointer;
+}
+.btn4:hover{
+    color: grey;
+}
+.btn4:active{
+    opacity: 0.3;
 }
 .Home{
     text-align: left;
